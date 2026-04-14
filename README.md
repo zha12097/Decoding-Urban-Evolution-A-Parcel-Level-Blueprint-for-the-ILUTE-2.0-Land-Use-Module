@@ -13,7 +13,7 @@ PhD Dissertation · Department of Civil & Mineral Engineering · University of T
 
 Land Use–Transport Interaction (LUTI) models are powerful tools for urban planning, but many existing frameworks are limited by coarse spatial resolutions, a neglect of policy constraints, and simplified representations of land use supply. This dissertation addresses these gaps by proposing a novel, high-resolution conceptual framework for the Land Use Supply module of the next-generation Integrated Land Use, Transportation, and Environment (ILUTE 2.0) model.
 
-The proposed framework operates at the **parcel level**, incorporates a full spectrum of **disaggregated land uses**, respects **Zoning By-Law regulations**, and is adaptable to different levels of data availability. The research proceeds in three main stages:
+The proposed framework operates at the parcel level, incorporates a full spectrum of disaggregated land uses, respects Zoning By-Law regulations, and is adaptable to different levels of data availability. The research proceeds in three main stages:
 
 1. **Parcel-Level Mapping of Permitted Land Use via Machine Learning** — A foundational study uses AI-driven methods to create a parcel-level digital map of permitted land uses from text-based Zoning By-Laws for the Greater Toronto–Hamilton Area (GTHA), overcoming significant data gaps.
 
@@ -39,23 +39,9 @@ Land Use–Transport Interaction (LUTI) · ILUTE · Parcel-Level Modelling · Di
 
 ## Related Publications
 
-Papers derived from this dissertation are currently under review at:
-
-- *Journal of Transport and Land Use* (JTLU)
-- *Geographical Analysis*
+Papers derived from this dissertation are currently submitted for peer review.
 
 This page will be updated with publication details as they become available.
-
-## Supervisor
-
-- [Prof. Eric J. Miller](https://civmin.utoronto.ca/home/about-us/directory/professors/eric-miller/) — University of Toronto
-
-## Defence Committee
-
-- Prof. Shoshanna Saxe — University of Toronto
-- Prof. Christopher Higgins — University of Toronto
-- Prof. Matti Siemiatycki — University of Toronto
-- Prof. Suzana Dragicevic — Simon Fraser University
 
 ## How to Cite
 
