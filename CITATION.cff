@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use or reference this dissertation, please cite it as below."
+type: thesis
+title: "Decoding Urban Evolution: A Parcel-Level Blueprint for the ILUTE 2.0 Land Use Module"
+authors:
+  - family-names: Zhang
+    given-names: Jiaxin
+    alias: Jason
+    affiliation: University of Toronto
+year: 2026
+thesis-type: "PhD Dissertation"
+institution:
+  name: University of Toronto
+  department: Department of Civil & Mineral Engineering
+  city: Toronto
+  region: Ontario
+  country: CA
+keywords:
+  - land use-transport interaction
+  - ILUTE
+  - parcel-level modelling
+  - discrete choice
+  - zoning by-laws
+  - machine learning
+  - Greater Toronto-Hamilton Area
+  - urban development
+  - floorspace supply
+  - developer behaviour
+license: CC-BY-NC-4.0
