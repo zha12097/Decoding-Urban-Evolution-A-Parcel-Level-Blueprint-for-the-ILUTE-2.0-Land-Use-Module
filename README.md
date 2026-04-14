@@ -58,7 +58,7 @@ This page will be updated with publication details as they become available.
 
 ## Download
 
-The full dissertation PDF is available in this repository: **[Zhang_Jiaxin_202606_PHD_thesis.pdf](Zhang_Jiaxin_202606_PHD_thesis.pdf)**
+The full dissertation PDF is available in this repository.
 
 ## License
 
