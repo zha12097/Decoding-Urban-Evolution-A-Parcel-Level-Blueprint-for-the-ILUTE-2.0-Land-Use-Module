@@ -7,7 +7,7 @@ PhD Dissertation · Department of Civil & Mineral Engineering · University of T
 [![DOI](https://img.shields.io/badge/PDF-Dissertation-blue)](Zhang_Jiaxin_202606_PHD_thesis.pdf)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-This Dissertation has been reviewed and approved by the University of Toronto, and will be officially published in ProQuest after June 16th 2026 (U of T's Summer 2026 Convocation).
+**This Dissertation has been reviewed and approved by the University of Toronto, and will be officially published in ProQuest after June 16th 2026 (U of T's Summer 2026 Convocation).**
 
 ---
 
